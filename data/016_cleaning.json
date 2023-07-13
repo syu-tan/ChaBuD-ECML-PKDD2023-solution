@@ -1,0 +1,201 @@
+{
+    "0328d12a-4ad8-4504-8ac5-70089db10b4e_1": {
+        "note": "一番多くエラーに上がっていて目視でも判読不可能、右側後検知傾向",
+        "similar": [],
+        "remove": false
+    },
+    "058dcb9e-f349-40bf-868b-7afa8dc9bb5a_0": {
+        "note": "元の面積が小さいだけ",
+        "similar": [],
+        "remove": false
+    },
+    "063bbb69-baf1-460b-95cc-9dfbe53ffe4a_0": {
+        "note": "左上の謎のFP",
+        "similar": [],
+        "remove": false
+    },
+    "10e9b0b6-f9df-4c1d-9c1e-503cb7e37b7b_0": {
+        "note": "右真ん中FPで出ている",
+        "similar": [],
+        "remove": false
+    },
+    "20cb665f-0a1e-4c4e-bb87-6bd88f6015c5_0": {
+        "note": "元の面積が小さい",
+        "similar": [],
+        "remove": false
+    },
+    "2e131813-25ad-4653-a3b2-95c8196a6228_6": {
+        "note": "市街地でのFP",
+        "similar": [],
+        "remove": false
+    },
+    "49f0aa55-5bcd-41c2-9acd-8d50ff884db7_0": {
+        "note": "市街地でのFP",
+        "similar": [],
+        "remove": false
+    },
+    "51b2fa4f-dfa2-49d1-b616-6d74c740fc44_0": {
+        "note": "FPだが変化あり、山火事か判読できない",
+        "similar": [
+            "6396ce8b-6bd2-4c12-83bb-5ffa3c876cd3_0"
+        ],
+        "remove": true
+    },
+    "6396ce8b-6bd2-4c12-83bb-5ffa3c876cd3_0": {
+        "note": "FPだが変化あり、山火事か判読できない",
+        "similar": [
+            "51b2fa4f-dfa2-49d1-b616-6d74c740fc44_0"
+        ],
+        "remove": true
+    },
+    "6483556c-1334-4495-8589-148462b0a33f_0": {
+        "note": "FN は目視でわからない、FP は雲",
+        "similar": [
+            "6483556c-1334-4495-8589-148462b0a33f_1"
+        ],
+        "remove": true
+    },
+    "6483556c-1334-4495-8589-148462b0a33f_1": {
+        "note": "FN は目視でわからない、FP は雲",
+        "similar": [
+            "6483556c-1334-4495-8589-148462b0a33f_0"
+        ],
+        "remove": true
+    },
+    "71ca42d1-a7b8-4de2-991d-3d9f5fdd0499_0": {
+        "note": "広範囲のFPは post pre が逆な気がする",
+        "similar": [],
+        "remove": true
+    },
+    "7592012c-ad9d-4ffa-8fd0-de56091a1453_0": {
+        "note": "面積が小さい",
+        "similar": [],
+        "remove": false
+    },
+    "7b78a4d7-0659-49b8-9f7d-266fb70f6973_0": {
+        "note": "面積が小さい",
+        "similar": [],
+        "remove": false
+    },
+    "7df7928f-4807-4a89-8f98-826be7b7dc4d_0": {
+        "note": "中央で FP、目視で変化なし",
+        "similar": [],
+        "remove": false
+    },
+    "9399bc4d-dd61-44f8-aae1-754b00a6247b_0": {
+        "note": "地表変化を FP",
+        "similar": [],
+        "remove": false
+    },
+    "9dc544b1-46b0-45de-a01c-58d478f2298e_0": {
+        "note": "変化があるがラベル漏れ？",
+        "similar": [],
+        "remove": true
+    },
+    "9fa276ce-31d1-4bae-84e8-e811cfebc44b_0": {
+        "note": "面積が小さい",
+        "similar": [],
+        "remove": false
+    },
+    "a03f0787-51bb-415a-92d5-e1f2b3463388_0": {
+        "note": "小さな変化でFP",
+        "similar": [],
+        "remove": false
+    },
+    "a03f0787-51bb-415a-92d5-e1f2b3463388_2": {
+        "note": "右下の黒い部分でFP",
+        "similar": [],
+        "remove": false
+    },
+    "a1cdbbab-82c6-42ab-94ae-441ab5e3ffa6_2": {
+        "note": "山陰をFPで pre post が逆",
+        "similar": [],
+        "remove": true
+    },
+    "a253b245-bb18-4657-8797-6809b754bf52_0": {
+        "note": "上真ん中のFPで変化あり。雲か影",
+        "similar": [],
+        "remove": true
+    },
+    "aaaab677-b01f-4d11-abfc-a0d1359a41a7_0": {
+        "note": "面積が小さい",
+        "similar": [],
+        "remove": false
+    },
+    "ab6f4126-eb07-4337-a691-68571e042471_0": {
+        "note": "面積が小さい",
+        "similar": [],
+        "remove": false
+    },
+    "b002fae6-a7bb-4b88-911e-873f80dadc05_0": {
+        "note": "小さい変化をFP",
+        "similar": [],
+        "remove": false
+    },
+    "b7a1155a-7177-477c-84dd-43278fb86a7e_0": {
+        "note": "市街地をFP",
+        "similar": [],
+        "remove": false
+    },
+    "be0a7b99-eb39-4c67-915b-9b3dd4020c53_0": {
+        "note": "面積が小さい",
+        "similar": [],
+        "remove": false
+    },
+    "c3012b0f-a8b7-4956-a26a-027efc0f93d7_0": {
+        "note": "雲があるかつ、変化みられない",
+        "similar": [],
+        "remove": true
+    },
+    "ccef1714-4f86-4154-bcae-0ab2e62f2bda_0": {
+        "note": "市街地で変化あり。ラベルつけ漏れ？農地変化か",
+        "similar": [],
+        "remove": true
+    },
+    "d0d127a3-a564-4b3f-9b74-fbea18a57c01_0": {
+        "note": "農地の変化をFP、農地のマスクか？",
+        "similar": [],
+        "remove": true
+    },
+    "e23e6cba-4ef0-4e9f-84ec-a363f945de50_1": {
+        "note": "面積が小さい",
+        "similar": [],
+        "remove": false
+    },
+    "ef5600d6-8096-40f5-a180-4dec3648af60_0": {
+        "note": "面積が小さい",
+        "similar": [
+            "ef5600d6-8096-40f5-a180-4dec3648af60_1"
+        ],
+        "remove": false
+    },
+    "ef5600d6-8096-40f5-a180-4dec3648af60_1": {
+        "note": "左中央の小さな変化をFP",
+        "similar": [
+            "ef5600d6-8096-40f5-a180-4dec3648af60_0"
+        ],
+        "remove": false
+    },
+    "f51a03d7-0a43-467e-b75f-0902ac3fb04b_0": {
+        "note": "雲で FN, FPで pre post が逆??で火事進行形？",
+        "similar": [],
+        "remove": true
+    },
+    "f51a03d7-0a43-467e-b75f-0902ac3fb04b_1": {
+        "note": "雲で FN, FPで pre post が逆?? 日光の向きが違って影になっている",
+        "similar": [
+            "f51a03d7-0a43-467e-b75f-0902ac3fb04b_0"
+        ],
+        "remove": true
+    },
+    "483143d9-7abb-4791-a64e-cceea6f1263d_1": {
+        "note": "小さな色の変化でFP",
+        "similar": [],
+        "remove": false
+    },
+    "96e09f95-a771-4409-a2ae-49df8eaeed6a_1": {
+        "note": "pre が見切れてる",
+        "similar": [],
+        "remove": false
+    }
+}

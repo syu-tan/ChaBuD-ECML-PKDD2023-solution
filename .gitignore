@@ -1,0 +1,32 @@
+# data
+*.npy
+*.hdf5
+*.h5
+
+# additional
+data/tokyo
+data/Nagoya
+data/Arizona
+data/Nevata
+data/Oregon
+data/Idaho
+data/Sydony
+
+# cloud data
+data/cloud
+
+
+# cache
+__pycache__/
+.cache/
+*.pyc
+
+# artifact
+src/output
+src/wandb
+*.zip
+src/inference.log
+
+# auth
+src/key.env
+
