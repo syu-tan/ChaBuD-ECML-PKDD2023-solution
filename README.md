@@ -6,8 +6,13 @@ Competition: https://huggingface.co/spaces/competitions/ChaBuD-ECML-PKDD2023
 ## Dataset
 https://huggingface.co/datasets/chabud-team/chabud-ecml-pkdd2023
 
+### Sample
 ![duplicated](img/duplicated_patch.png)
+
+### Predict
 ![hard](img/hard_to_detect.png)
+
+### Modeling Method
 ![mrps](img/MixRandomPairSampling.png)
 
 
@@ -24,6 +29,10 @@ pip install -r env/requirements.txt
 pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
 ## or your CUDA Driver version
 ```
+
+## Contributors
+- https://github.com/hiroshiyokoya
+- https://github.com/syu-tan
 
 ## Report
 coming soon
