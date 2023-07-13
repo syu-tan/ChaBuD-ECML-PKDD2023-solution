@@ -6,6 +6,10 @@ Competition: https://huggingface.co/spaces/competitions/ChaBuD-ECML-PKDD2023
 ## Dataset
 https://huggingface.co/datasets/chabud-team/chabud-ecml-pkdd2023
 
+```
+@article{ title={CaBuAr: California Burned Areas dataset for delineation}, author={Rege Cambrin, Daniele; Colomba, Luca; Garza, Paolo}, journal={IEEE Geoscience and Remote Sensing Magazine}, doi={10.1109/MGRS.2023.3292467}, year={2023} }
+```
+
 ### Sample
 ![duplicated](img/duplicated_patch.png)
 
